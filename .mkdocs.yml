@@ -1,0 +1,7 @@
+site_name: My docs
+theme: readthedocs
+repo_url: https://github.com/jchannon/mydocs
+pages:
+- [index.md, Home]
+- [how-to-do-x.md, How to do X]
+- [how-to-do-y.md.md, How to do Y]
